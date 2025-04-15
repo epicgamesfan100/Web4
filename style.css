@@ -1,0 +1,28 @@
+body {
+  background-color: #ADD6E8;
+}
+
+h1 {
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+p {
+  font-family: Cursive;
+  font-weight: 350;
+}
+
+img {
+  max-width: 200;
+  max-height: 200;
+}
